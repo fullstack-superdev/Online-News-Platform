@@ -47,12 +47,8 @@ List the ready features here:
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/MobinaJafarian/OnlineNewsSite)  
+3. Download project from github
     OR follow gitbash commands
-    
-    i>cd C:\\xampp\htdocs\
-    
-    ii>git clone https://github.com/MobinaJafarian/OnlineNewsSite.git
     
 4. extract files in C:\\xampp\htdocs\.
 
@@ -77,14 +73,5 @@ List the ready features here:
 - Email=nj@gmail.com and 
 - Password=19991999
 
-
-
-
 ## Project Status
 Project is:  _complete_
-
-
-
-
-## Contact
-Created by [@MobinaJafarian](https://github.com/MobinaJafarian) - feel free to contact me!
